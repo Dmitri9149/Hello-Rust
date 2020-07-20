@@ -1,0 +1,1 @@
+The first project in Rust : just print "Hello World"
